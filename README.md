@@ -29,11 +29,15 @@ Key tasks included:
 
 ## Key Performance Indicators (KPIs)
 
-The following metrics were analyzed:
+| KPI | Result |
+|---|---:|
+| Net Revenue | £9,726,006.95 |
+| Completed Orders | 22,061 |
+| Canceled Orders | 3,836 |
+| Unique Customers | 4,372 |
+| Average Order Value | £481.89 |
 
-- **Total Revenue:** Overall sales revenue.
-- **Total Orders:** Number of unique orders.
-- **Average Order Value:** Average revenue generated per order.
+These KPIs provide an overview of retail sales performance, customer activity and order outcomes.
 
 ## Data Analysis and Visualizations
 
