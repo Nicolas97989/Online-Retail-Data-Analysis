@@ -69,6 +69,17 @@ Explore the interactive dashboard published on Tableau Public.
 
 [**View Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/nicolas.louis.goodluck/viz/OnlineRetail_17928587761920/Dashboard)
 
+## Dashboard Screenshots
+
+### Tableau Dashboard
+![Tableau Dashboard](Tableau-dashboard.png)
+
+### Excel Dashboard
+![Excel Dashboard](Excel-dashboard.png)
+
+### Business Insights and Recommendations
+![Business Insights and Recommendations](Business-insight-and-recommendation.png)
+
 ## Project Files
 
 - `Online Retail.xlsx` — Excel workbook containing the retail data and analysis.
